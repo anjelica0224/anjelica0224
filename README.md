@@ -16,4 +16,4 @@ i love exploring tech, gauging my interests, and learning as much as i can.
 
 **find me elsewhere**
 
-[🌐 anjelica.me](https://anjelica.me) · [𝕏 @dysphoricsimon](https://x.com/dysphoricsimon) · [LinkedIn](https://linkedin.com/in/anjelica0224)
+[anjelica.me](https://anjelica.me) · [𝕏 @dysphoricsimon](https://x.com/dysphoricsimon) · [LinkedIn](https://linkedin.com/in/anjelica0224)
