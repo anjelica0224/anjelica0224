@@ -1,4 +1,4 @@
-# hey, i'm anjelica 👋
+# hey, i'm anjelica 
 
 csai student at plaksha. a little bit into aerospace, math, astronomy, and black holes — because who isn't?
 i love exploring tech, gauging my interests, and learning as much as i can.
