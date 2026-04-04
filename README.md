@@ -1,16 +1,19 @@
-## Hi there 👋
+# hey, i'm anjelica 👋
 
-<!--
-**anjelica0224/anjelica0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+csai student at plaksha. a little bit into aerospace, math, astronomy, and black holes — because who isn't?
+i love exploring tech, gauging my interests, and learning as much as i can.
 
-Here are some ideas to get you started:
+**things i've made**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Bell Jar](https://github.com/anjelica0224/websocket)** — real-time chat server with quirky band names, cool avatars, and media support up to 5MB
+- **[Celestia](https://github.com/anjelica0224/celestia)** — celestial event tracker for mobile
+- **[LangLantern](https://github.com/nhcarrigan-2025-hackathon/rose-token-LangLantern)** — crowd-sourced language learning app
+
+**currently working on**
+
+- exploring HCI & productivity systems
+- **NavBot** — turning websites into a conversation *(embeddable chatbots, coming soon)*
+
+**find me elsewhere**
+
+[🌐 anjelica.me](https://anjelica.me) · [𝕏 @dysphoricsimon](https://x.com/dysphoricsimon) · [LinkedIn](https://linkedin.com/in/anjelica0224)
