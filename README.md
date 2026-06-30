@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://commit-history.com/anjelica0224">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/anjelica0224?theme=dark" />
+      <img alt="anjelica0224's commit history" src="https://commit-history.com/embed/anjelica0224" />
+    </picture>
+  </a>
+</div>
+
 # hey, i'm anjelica 
 
 i'm a little bit into aerospace, math, astronomy, and black holes — because who isn't?
